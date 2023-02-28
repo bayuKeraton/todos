@@ -30,7 +30,7 @@ The project follow Maven's [standard directory layout structure](https://maven.a
     - `Application.java` is a runnable Java application class and the app's 
       starting point
     - `GreetService.java` is a Spring service class
-    - `MainView.java` is an example Vaadin view
+    - `Regis.java` is an example Vaadin view
 - Under the `srs/test` are located the TestBench test files
 - `src/main/resources` contains configuration files and static resources
 - The `frontend` directory in the root folder contains client-side 
